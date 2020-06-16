@@ -26,7 +26,7 @@ location: Department of Humanities and Cultural Heritage, Università degli Stud
 math: true
 projects: []
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: 
 summary: Talk and slides presented at the Broadening Horizons 5 Conference.
 tags: []
 title: Assyrian imperial frontiers during the first millennium BC - the case of the Iraqi Middle Euphrates
@@ -35,8 +35,4 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the powerpoint.
-{{% /alert %}}
 

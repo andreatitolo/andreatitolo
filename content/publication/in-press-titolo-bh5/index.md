@@ -23,7 +23,6 @@ publishDate: "in press"
 slides: ""
 summary: Many recent studies have dealt with the nature of the Assyrian imperial frontiers, demonstrating how diversified they have been through time and space, with cases such as Khabur and Upper Tigris regions. On the other hand, the Assyrian periphery along the Iraqi middle Euphrates – ancient region of Suḫu – is archaeologically less known.
 tags:
-- Source Themes
 title: (In Press) Assyrian imperial frontiers during the first millennium BC - the case of the Iraqi Middle Euphrates
 url_code: ''
 url_dataset: ''

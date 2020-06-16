@@ -26,7 +26,7 @@ location: Business School, University of Durham
 math: true
 projects: []
 publishDate: "2017-02-01T00:00:00Z"
-slides: example
+slides: 
 summary: Talk and slides presented at the BANEA 2018 conference.
 tags: []
 title: On the Edge of the Empire - Riverine Landscape and Settlement Patterns in the Haditha Dam Region during the Iron Age.
@@ -35,8 +35,4 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the powerpoint.
-{{% /alert %}}
 

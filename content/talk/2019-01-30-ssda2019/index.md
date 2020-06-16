@@ -26,7 +26,7 @@ location: Sapienza Università di Roma
 math: true
 projects: []
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: 
 summary: Talk and slides presented at the VI Seminario della Scuola di Dottorato in Archeologia (SSDA).
 tags: []
 title: L’Età del Ferro nell’area dell’Eufrate Siriano - siti e ricostruzione del paesaggio archeologico.
@@ -36,7 +36,4 @@ url_slides: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the powerpoint.
-{{% /alert %}}
 
