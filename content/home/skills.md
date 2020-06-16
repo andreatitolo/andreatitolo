@@ -32,12 +32,6 @@ subtitle = ""
   name = "Spatial Data Analysis"
   description = "R User - Spatial and Quantitative data analysis applied to Archaeology"
   
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Spatial Databases"
-  description = "Postgres/PostGIS"  
-  
 
   
 
