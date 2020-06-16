@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 
-Filter publications [here]({{< ref "/publication/_index.md" >}}).
+
 
