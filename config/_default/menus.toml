@@ -50,7 +50,7 @@
 
  [[main]]
     name = "HTML version"
-    url = "files/titolo_cv.html"
+    url = "files/at_cv.html"
     parent = "cv"
 
  [[main]]
