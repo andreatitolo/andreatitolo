@@ -1,0 +1,52 @@
+// Resize admin name, subtitle and organization name (defaults 1.75 and 1rem)
+.portrait-title h2 {
+  font-size: 1.25em;
+  font-weight: 300;
+  color: #000000;
+  margin: 20px 0 10px 0;
+}
+
+.portrait-title h3 {
+  font-size: 0.75rem;
+  font-weight: 300;
+  color: rgba(0,0,0, 0.54);
+  margin: 0px 0 10px 0;
+}
+
+// Resize profile pic (avatar)
+.avatar {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+// These are kept as the defaults
+.avatar-circle {
+  border-radius: 50%;
+}
+
+.avatar-square {
+  border-radius: 3px;
+}
+
+// Network icons (default 2rem)
+.big-icon {
+  font-size: 1.5rem;
+}
+
+// Interests text (default 0.9rem)
+ul.ul-interests li {
+  font-size: 0.8rem;
+}
+
+// Education font for courses (default 0.9 rem)
+ul.ul-edu li .description p.course {
+  font-size: 0.8rem;
+}
+
+// Education font for institution (default 0.75 rem)
+ul.ul-edu li .description p.institution {
+  font-size: 0.65rem;
+  color: rgba(0,0,0,0.6);
+}
