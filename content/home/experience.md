@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -32,21 +32,22 @@ date_format = "Jan 2006"
 #   """
 
 [[experience]]
-  title = "PhD Student"
-  company = "Sapienza University of Rome"
-  company_url = ""
-  location = "Rome"
-  date_start = "2016-10-01"
-  date_end = "2019-11-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Fellow"
+  company = "Sapienza University of Rome - Department of Ancient World Studies"
+  company_url = "http://www.antichita.uniroma1.it/en/"
+  location = "Rome, Italy"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """Member of the project: Tra paludi e oasi: gestione, morfologia e ricognizione dei paesaggi acquatici in Siria e Iraq"""  
+  
   
 [[experience]]
-  title = "Area Supervisor"
-  company = "Italian Archaeological Mission to Nigin"
+  title = "PhD"
+  company = "Sapienza University of Rome"
   company_url = ""
-  location = "Dhi-Qar, Iraq"
-  date_start = "2015-10-01"
-  date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""  
+  location = "Rome, Italy"
+  date_start = "2016-11-01"
+  date_end = "2019-11-01"
+  description = """PhD Thesis: Beyond the River. Settlement Patterns and Models of Occupation along the Euphrates in Syria and Iraq during the Iron Age."""
 
 +++

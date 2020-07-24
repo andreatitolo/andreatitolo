@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Sapienza University of Rome
   url: "https://www.uniroma1.it/it/pagina-strutturale/home"
-role: PhD
+role: Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -58,7 +58,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. at [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home) (Near Eastern Archaeology). My research interests include Settlement Pattern Analysis, Remote Sensing, GIS, and mapping. 
+I am a researcher at [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home) (Near Eastern Archaeology). My research interests include Settlement Pattern Analysis, Remote Sensing, GIS, and mapping. 
 
-During my Ph.D. I analysed Iron Age settlement patterns along the Euphrates river in ancient Mesopotamia. I used a landscape archaeology approach but integrating also geomorphology, remote sensing, quantitative and spatial analyses.
+During my Ph.D. I analysed Iron Age settlement patterns along the Euphrates river in ancient Mesopotamia. I used a landscape archaeology approach, also integrating geomorphology, remote sensing, quantitative and spatial analyses.
 
