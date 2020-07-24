@@ -13,26 +13,31 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-  
+# Custom icons from icomoon: https://www.rollagain.net/post/adding-custom-icons-to-the-hugo-academic-theme/
+
 [[feature]]
   icon = "satellite"
   icon_pack = "fas"
   name = "Remote Sensing"
-  description = "Remote Sensing Applied to Cultural Heritage and Archaeological Investigation"
+  description = "Remote Sensing for Cultural Heritage and Archaeological Investigation, also proficient with Google Earth Engine <i class='icomoon icon-javascript e902'></i>"
   
 [[feature]]
-  icon = "map-marked"
-  icon_pack = "fas"
+  icon = "qgis"
+  icon_pack = "icon"
   name = "GIS"
   description = "QGIS User - GIS mapping, satellite data manipulation and spatial analysis"  
   
 [[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
-  name = "Spatial Data Analysis"
-  description = "R User - Spatial and Quantitative data analysis applied to Archaeology"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Spatial Data Management and Analysis"
+  description = "R User - Spatial and Quantitative data analysis applied to Archaeology <i class='fab fa-github fa-lg'></i> <i class='icomoon icon-postgresql e901'></i>"
   
-
+# [[feature]]
+#   icon = "database"
+#   icon_pack = "fas"
+#   name = "Spatial Data Management"
+#   description = "<i class='icomoon icon-postgresql e901'></i>"
   
 
 # Uncomment to use emoji icons.
