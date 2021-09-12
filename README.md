@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreatitolo)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreatitolo.rbind.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/whysofurious1)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/andreatitolo_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/andrea.titolo_/)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <br>
@@ -128,6 +128,7 @@
 
 
 ## 🏛️ Academia
+- 🎓 Current Position: Research Fellow at [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home)
 - 🌐 [Personal website](https://andreatitolo.rbind.io/)
 - 📔 [Scientific Publications](https://andreatitolo.rbind.io/#publications)
 - 📝 Check out my [resume](https://andreatitolo.rbind.io/files/at_cv.html) 
