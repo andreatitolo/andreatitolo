@@ -6,9 +6,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/andreatitolo_/)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
+<br>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Landscape+Archaeologist;GIS+%2B+Remote+Sensing+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=3399ff&vCenter=true&size=22"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Landscape+Archaeologist;GIS+%2B+Remote+Sensing+Enthusiast&font=Fira%20Code&center=true&width=640&height=45&color=3399ff&vCenter=true&size=30"></a>
 </p>
 
 
@@ -21,8 +21,6 @@
 
 <h2 align="left" >Skills and Tools</h2>
 
-> Tools, languages, and other things that I like to work with.
-
 <table>
     <th>Using</th>
   <tr>
@@ -33,49 +31,49 @@
       <br>QGIS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://qfield.org/">
         <img src="https://wiki.osarch.org/images/6/63/Icon_qfield-logo.svg" width="48" height="48" alt="Qfield" />
       </a>
       <br>Qfield
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.r-project.org/">
         <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.rstudio.com/">
         <img src="img/rstudio-original.svg" width="48" height="48" alt="Rstudio" />
       </a>
       <br>Rstudio
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://earthengine.google.com/">
         <img src="img/googleearth-engine.svg" width="48" height="48" alt="EarthEngine" />
       </a>
       <br>GEE
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://github.com/r-spatial/rgee" >
         <img src="https://user-images.githubusercontent.com/16768318/118376965-5f7dca80-b5cb-11eb-9a82-47876680a3e6.png" width="48" height="48" alt="RGEE" />
       </a>
       <br>RGEE
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://code.visualstudio.com/">
         <img src="img/vscode.svg" width="48" height="48" alt="Inkscape" />
       </a>
       <br>VSCode
     </td>    
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.gimp.org/">
         <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="48" height="48" alt="GIMP" />
       </a>
       <br>Gimp
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://inkscape.org/">
         <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" width="48" height="48" alt="Inkscape" />
       </a>
       <br>Inkscape
@@ -84,27 +82,25 @@
     <th>Improving</th>
     <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="img/javascript.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
       <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="img/sql.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
     </td>
       <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.postgresql.org/">
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>PostreSQL
     </td>
     </td>
       <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://postgis.net/">
         <img src="img/postgis.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>PostGIS
@@ -113,7 +109,6 @@
      <th>Learning</th>
     <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
