@@ -140,7 +140,7 @@
 
 ## 💻 Current projects I'm part of
 - [Fluid Crescent](https://www.antichita.uniroma1.it/fluid-crescent-water-and-life-societies-ancient-near-east)
-- [Italian-Lebanese Archaeological Project in the Tyre Region](https://www.antichita.uniroma1.it/progetto-archeologico-libanese-italiano-nella-regione-di-tiro)
+- [Lebanese-Italian Archaeological Project in the Tyre Region](https://www.antichita.uniroma1.it/progetto-archeologico-libanese-italiano-nella-regione-di-tiro)
 
 <br><br>
 # Todoist Stats
