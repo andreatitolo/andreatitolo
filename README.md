@@ -146,7 +146,7 @@
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  5,532 Karma Points           
+🏆  5,575 Karma Points           
 🌸  Completed 10 tasks today           
 🗓  Completed 49 tasks this week           
 ✅  Completed 234 tasks so far           
