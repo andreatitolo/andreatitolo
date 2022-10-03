@@ -129,9 +129,9 @@
 
 ## 🏛️ Academia
 - 🎓 Current Position: Research Fellow at [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home)
-- 🌐 [Personal website](https://andreatitolo.rbind.io/)
-- 📔 [Scientific Publications](https://andreatitolo.rbind.io/#publications)
-- 📝 Check out my [resume](https://andreatitolo.rbind.io/files/at_cv.html) 
+- 🌐 [Personal website](https://www.andreatitolo.com/)
+- 📔 [Scientific Publications](https://www.andreatitolo.com/#publications)
+- 📝 Check out my [resume](https://www.andreatitolo.com/uploads/CV.pdf) 
 
 ## 📅 Hobbies
 - 📺 Watch Tv shows
@@ -156,10 +156,9 @@
 <br><br>
 
 <p align="center">
-<a href="mailto:titoloandrea@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
-<a href="https://twitter.com/whysofurious1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="whysofurious1" height="40" width="40" /></a>
+<a href="mailto:titoloandrea@ik.me" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
+<a href="https://twitter.com/titoloandrea_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="whysofurious1" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/andreatitolo/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="andreatitolo" height="40" width="40" /></a>
-<a href="https://www.instagram.com/andrea.titolo_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="andreatitolo_" height="40" width="40" /></a>
 <a href="https://orcid.org/
 0000-0002-7322-8634" target="blank"><img align="center" src="img/orcid.svg" alt="andreatitolo_" height="40" width="40" /></a>
 </p>
