@@ -133,6 +133,7 @@
 - 🌐 [Personal website](https://www.andreatitolo.com/)
 - 📔 [Scientific Publications](https://www.andreatitolo.com/#publications)
 - 📝 Check out my [resume](https://www.andreatitolo.com/uploads/CV.pdf) 
+- Follow me on <a rel="me" href="https://archaeo.social/@andreatitolo">Mastodon</a>
 
 ## 📅 Hobbies
 - 📺 Watch Tv shows
