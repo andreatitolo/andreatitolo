@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreatitolo.com/)
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-4083CF?style=flat-square&logo=Mastodon&logoColor=white)](https://archaeo.social/@andreatitolo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreatitolo)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreatitolo.rbind.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/whysofurious1)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/andrea.titolo_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/titoloandrea_/)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <br>
@@ -142,21 +143,14 @@
 - [Fluid Crescent](https://www.antichita.uniroma1.it/fluid-crescent-water-and-life-societies-ancient-near-east)
 - [Lebanese-Italian Archaeological Project in the Tyre Region](https://www.antichita.uniroma1.it/progetto-archeologico-libanese-italiano-nella-regione-di-tiro)
 
-<br><br>
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  7,710 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 421 tasks so far           
-⏳  Longest streak is 11 days
-<!-- TODO-IST:END -->
 
 <br><br>
 
+--------
+<br><br>
 <p align="center">
 <a href="mailto:titoloandrea@ik.me" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
+<a href="https://archaeo.social/@andreatitolo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" alt="andreatitolo" height="40" width="40" /></a>
 <a href="https://twitter.com/titoloandrea_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="whysofurious1" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/andreatitolo/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="andreatitolo" height="40" width="40" /></a>
 <a href="https://orcid.org/
