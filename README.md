@@ -2,9 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreatitolo.com/)
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-4083CF?style=flat-square&logo=Mastodon&logoColor=white)](https://archaeo.social/@andreatitolo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreatitolo)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/whysofurious1)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/titoloandrea_/)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <br>
@@ -129,7 +127,7 @@
 
 
 ## 🏛️ Academia
-- 🎓 Current Position: Research Fellow at [University of Turin]([https://www.uniroma1.it/en/pagina-strutturale/home](https://www.dipstudistorici.unito.it/do/home.pl))
+- 🎓 Current Position: Research Fellow at [University of Turin](https://www.dipstudistorici.unito.it/do/home.pl)
 - 🌐 [Personal website](https://www.andreatitolo.com/)
 - 📔 [Scientific Publications](https://www.andreatitolo.com/#publications)
 - 📝 Check out my [resume](https://www.andreatitolo.com/uploads/CV.pdf) 
@@ -151,7 +149,7 @@
 --------
 <br><br>
 <p align="center">
-<a href="mailto:titoloandrea@ik.me" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
+<a href="mailto:andrea.titolo@unito.it" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
 <a rel="me" href="https://archaeo.social/@andreatitolo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" alt="andreatitolo" height="40" width="40" /></a>
 <a href="https://twitter.com/titoloandrea_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="whysofurious1" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/andreatitolo/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="andreatitolo" height="40" width="40" /></a>
