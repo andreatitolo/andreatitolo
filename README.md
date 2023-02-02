@@ -129,7 +129,7 @@
 
 
 ## 🏛️ Academia
-- 🎓 Current Position: Research Fellow at [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home)
+- 🎓 Current Position: Research Fellow at [University of Turin]([https://www.uniroma1.it/en/pagina-strutturale/home](https://www.dipstudistorici.unito.it/do/home.pl))
 - 🌐 [Personal website](https://www.andreatitolo.com/)
 - 📔 [Scientific Publications](https://www.andreatitolo.com/#publications)
 - 📝 Check out my [resume](https://www.andreatitolo.com/uploads/CV.pdf) 
@@ -141,6 +141,7 @@
 - 👾 Play/Modding videogames
 
 ## 💻 Current projects I'm part of
+- [The Empire Strikes Back: The Geography of Governance Strategies in the Assyrian Empire](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=iuxd)
 - [Fluid Crescent](https://www.antichita.uniroma1.it/fluid-crescent-water-and-life-societies-ancient-near-east)
 - [Lebanese-Italian Archaeological Project in the Tyre Region](https://www.antichita.uniroma1.it/progetto-archeologico-libanese-italiano-nella-regione-di-tiro)
 
