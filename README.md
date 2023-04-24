@@ -139,7 +139,7 @@
 - 👾 Play/Modding videogames
 
 ## 💻 Current projects I'm part of
-- [The Empire Strikes Back: The Geography of Governance Strategies in the Assyrian Empire](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=iuxd)
+- [Governance Policies and Political Landscapes in the Southern Levant under the Neo-Assyrian Empire](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8)
 - [Fluid Crescent](https://www.antichita.uniroma1.it/fluid-crescent-water-and-life-societies-ancient-near-east)
 - [Lebanese-Italian Archaeological Project in the Tyre Region](https://www.antichita.uniroma1.it/progetto-archeologico-libanese-italiano-nella-regione-di-tiro)
 
