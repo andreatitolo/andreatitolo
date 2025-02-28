@@ -2,7 +2,6 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreatitolo.com/)
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-4083CF?style=flat-square&logo=Mastodon&logoColor=white)](https://archaeo.social/@andreatitolo)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/whysofurious1)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <br>
@@ -12,8 +11,7 @@
 
 
 <br><br>
-
-<p align="center"><img align="center" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/></a>
+<p align="center"><img align="center" src="https://github.com/user-attachments/assets/88211498-048d-499b-beeb-07e1f612b273"/></a>
 </p>
 
 <br><br>
@@ -140,9 +138,6 @@
 
 ## 💻 Current projects I'm part of
 - [Governance Policies and Political Landscapes in the Southern Levant under the Neo-Assyrian Empire](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8)
-- [Fluid Crescent](https://www.antichita.uniroma1.it/fluid-crescent-water-and-life-societies-ancient-near-east)
-- [Lebanese-Italian Archaeological Project in the Tyre Region](https://www.antichita.uniroma1.it/progetto-archeologico-libanese-italiano-nella-regione-di-tiro)
-
 
 <br><br>
 
@@ -151,9 +146,8 @@
 <p align="center">
 <a href="mailto:andrea.titolo@unito.it" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
 <a rel="me" href="https://archaeo.social/@andreatitolo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" alt="andreatitolo" height="40" width="40" /></a>
-<a href="https://twitter.com/titoloandrea_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="whysofurious1" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/andreatitolo/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="andreatitolo" height="40" width="40" /></a>
 <a href="https://orcid.org/
 0000-0002-7322-8634" target="blank"><img align="center" src="img/orcid.svg" alt="andreatitolo_" height="40" width="40" /></a>
 </p>
+
 
