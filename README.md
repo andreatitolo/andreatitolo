@@ -78,11 +78,6 @@
   </tr>
     <th>Improving</th>
     <tr>
-    <td align="center" width="96">
-        <img src="img/javascript.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
       <td align="center" width="96">
         <img src="img/sql.svg" width="48" height="48" alt="SQL" />
       </a>
@@ -106,9 +101,9 @@
      <th>Learning</th>
     <tr>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Python
+      <br>Rust
     </td>    
     </tr>   
 </table>
