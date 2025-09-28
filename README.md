@@ -40,10 +40,10 @@
       <br>R
     </td>
     <td align="center" width="96">
-      <a href="https://www.rstudio.com/">
-        <img src="img/rstudio-original.svg" width="48" height="48" alt="Rstudio" />
+      <a href="https://positron.dev/">
+        <img src="img/positron-icon.svg" width="48" height="48" alt="Positron" />
       </a>
-      <br>Rstudio
+      <br>Positron
     </td>
     <td align="center" width="96">
       <a href="https://earthengine.google.com/">
@@ -58,11 +58,17 @@
       <br>RGEE
     </td>
     <td align="center" width="96">
-      <a href="https://code.visualstudio.com/">
-        <img src="img/vscode.svg" width="48" height="48" alt="Inkscape" />
+      <a href="https://vscodium.com/">
+        <img src="img/vscodium.png" width="48" height="48" alt="VSCodium" />
       </a>
-      <br>VSCode
+      <br>VSCodium
     </td>    
+    <td align="center" width="96">
+      <a href="https://helix-editor.com/">
+        <img src="img/helix.svg" width="48" height="48" alt="Helix Editor" />
+      </a>
+      <br>Helix
+    </td> 
     <td align="center" width="96">
       <a href="https://www.gimp.org/">
         <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="48" height="48" alt="GIMP" />
